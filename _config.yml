@@ -3,7 +3,7 @@ title: Devcase Tecnologia Wiki
 email: wiki@devcase.com.br
 description: > # this means to ignore newlines until "baseurl:"
   Artigos com dicas para programadores
-baseurl: "/wiki/" # the subpath of your site, e.g. /blog/
+baseurl: "/wiki" # the subpath of your site, e.g. /blog/
 url: "http://www.devcase.com.br" # the base hostname & protocol for your site
 #twitter_username: devcase
 github_username:  devcase
